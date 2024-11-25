@@ -1,0 +1,8 @@
+config.py
+mail.py
+mq.py
+*.txt
+
+.idea
+.venv
+__pycache__
